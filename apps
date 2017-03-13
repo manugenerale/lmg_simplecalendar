@@ -1,0 +1,6 @@
+from django.apps import AppConfig
+
+
+class LmgUtilsConfig(AppConfig):
+    name = 'lmg_utils'
+
